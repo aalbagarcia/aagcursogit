@@ -1,1 +1,8 @@
 config/
+
+*.o
+*.class
+*.exe
+!este.exe
+build/
+
